@@ -27,7 +27,7 @@ Please read and follow the instructions in the [Contributing guide](CONTRIBUTING
 Via [Composer](http://getcomposer.org/download/)
 
 ```
-composer require alenuxo/yii2-translate-manager
+composer require lajax/yii2-translate-manager
 ```
 
 ### Migration
