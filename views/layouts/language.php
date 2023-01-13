@@ -5,8 +5,8 @@
  * @since 1.0
  */
 use yii\helpers\Html;
-use yii\bootstrap\Nav;
-use yii\bootstrap\NavBar;
+use yii\bootstrap5\Nav;
+use yii\bootstrap5\NavBar;
 use yii\widgets\Breadcrumbs;
 use lajax\translatemanager\bundles\TranslateManagerAsset;
 
